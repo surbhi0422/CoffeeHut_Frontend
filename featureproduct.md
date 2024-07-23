@@ -20,3 +20,7 @@
 
 ### Pumpkin Spice Latte
 - **Description**: A seasonal favorite with a mix of pumpkin, cinnamon, nutmeg, 
+ ##  Loyal Users
+  - Discount: Additional 5% off every purchase for loyal customers.           
+ ## Coffeehut Wallet Users
+  - Discount: Additional 5% off when using accumulated loyalty points.      
